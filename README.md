@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @MoriHiroshi0619
-- 👀 I’m interested in ... web dev and mobile dev
-- 🌱 I’m currently learning ... js & react
-
+- 👋 olá, sou o Mori Hiroshi;
+- 🍂 21 anos de idade
+- 👀 me interesso em desenvolvimento web e mobile;
+- 🌱 atualmente aprendendo web;
+- 👨🏻‍💻 cursando Quarto semestre de Sistemas de Informação na Universidade Estadual de Mato Grosso do Sul. (UEMS)
