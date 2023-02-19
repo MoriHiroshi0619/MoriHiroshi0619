@@ -17,7 +17,7 @@
  
 - 💾 Banco de dados
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoriHiroshi0619&hide=html,css, batchfile&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoriHiroshi0619&hide=html&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### REDES SOCIAIS
 
