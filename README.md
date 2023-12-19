@@ -22,7 +22,7 @@
 - 📱 programação MOBILE
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoriHiroshi0619&hide=batchfile,Hack,HTML&langs_count=10&hide_progress=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoriHiroshi0619&hide=batchfile,Hack,HTML,css&langs_count=10&hide_progress=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### REDES SOCIAIS
 
