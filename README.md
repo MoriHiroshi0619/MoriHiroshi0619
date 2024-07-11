@@ -1,4 +1,4 @@
-# Mori Hiroshi : 22 Anos 👋🏼
+# Mori Hiroshi : 23 Anos 👋🏼
 
 ## SKILLS 💻
 
@@ -16,10 +16,11 @@
 [![boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()
 
+### Trabalhando ⚙️
+- Gênesis Tecnologia e Inovação 🌌
+
 ### Estudando 👨🏻‍💻
 - 🎓 Sistemas de Informação - UEMS - Dourados-MS 📍
-
-- 🖥 Desenvolvimento WEB
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoriHiroshi0619&hide=batchfile,Hack,HTML,CSS&langs_count=10&hide_progress=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
