@@ -37,4 +37,3 @@
   <img alt="github-snake" src="https://github.com/MoriHiroshi0619/MoriHiroshi0619/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
-![Snake animation](https://github.com/MoriHiroshi0619/MoriHiroshi0619/blob/output/github-contribution-grid-snake.svg)
