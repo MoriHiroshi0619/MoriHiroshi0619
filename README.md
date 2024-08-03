@@ -32,8 +32,8 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mori_hiroshi_desu/)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MoriHiroshi0619/MoriHiroshi0619/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MoriHiroshi0619/MoriHiroshi0619/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/MoriHiroshi0619/MoriHiroshi0619/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
