@@ -21,6 +21,15 @@
 
 ### Estudando 👨🏻‍💻
 - 🎓 Sistemas de Informação - UEMS - Dourados-MS 📍
+  
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoriHiroshi0619&hide=batchfile,Hack,HTML,CSS&langs_count=10&hide_progress=false&theme=aura)](https://github.com/anuraghazra/github-readme-stats"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hiroshi&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats&card_width=320" />
+</a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoriHiroshi0619&hide=batchfile,Hack,HTML,CSS&langs_count=10&hide_progress=false&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
