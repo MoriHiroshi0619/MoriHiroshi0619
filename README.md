@@ -1,6 +1,4 @@
-# Mori Hiroshi : 23 Anos 👋🏼|
-
-Sou um desenvolvedor entusiasta com uma paixão por programação e tecnologias modernas.
+# Mori Hiroshi : 23 Anos 👋🏼
 
 ## SKILLS 💻
 
