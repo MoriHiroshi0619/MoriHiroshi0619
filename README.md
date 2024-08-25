@@ -28,7 +28,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoriHiroshi0619&hide=batchfile,Hack,HTML,CSS&langs_count=10&hide_progress=false&theme=aura)](https://github.com/anuraghazra/github-readme-stats"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hiroshi&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hiroshi&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MoriHiroshi0619&hide=issues&show=prs_merged,prs_merged_percentage&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats"/>
 </a>
 
 
