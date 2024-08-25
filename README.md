@@ -24,7 +24,9 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoriHiroshi0619&hide=batchfile,Hack,HTML,CSS&langs_count=10&hide_progress=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MoriHiroshi0619&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MoriHiroshi0619&layout=compact)](https://github.com/anuraghazra/github-readme-stats)]
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoriHiroshi0619)](https://github.com/anuraghazra/github-readme-stats)
 
 ### REDES SOCIAIS
 
