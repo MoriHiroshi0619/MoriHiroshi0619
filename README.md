@@ -4,7 +4,7 @@ Sou um desenvolvedor entusiasta com uma paixão por programação e tecnologias 
 
 ## SKILLS 💻
 
-### Linguagens e Frameworks:
+### Linguagens, Frameworks e Tecnologias:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
@@ -12,8 +12,6 @@ Sou um desenvolvedor entusiasta com uma paixão por programação e tecnologias 
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
-
-### Ferramentas e Tecnologias:
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]()
@@ -29,9 +27,24 @@ Sou um desenvolvedor entusiasta com uma paixão por programação e tecnologias 
 
 ## Estatísticas 📊 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoriHiroshi0619&hide=batchfile,Hack,HTML,CSS&langs_count=10&hide_progress=false&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoriHiroshi0619&hide=issues&show=prs_merged,prs_merged_percentage&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hiroshi&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoriHiroshi0619&hide=batchfile,Hack,HTML,CSS&langs_count=10&hide_progress=false&theme=aura" alt="Top Langs" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=MoriHiroshi0619&hide=issues&show=prs_merged,prs_merged_percentage&show_icons=true&theme=aura" alt="GitHub stats" />
+      </a>
+      <br/>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hiroshi&layout=compact&theme=aura" alt="WakaTime stats" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### REDES SOCIAIS 🌐
 
