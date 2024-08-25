@@ -25,7 +25,7 @@ Sou um desenvolvedor entusiasta com uma paixão por programação e tecnologias 
 ### Estudando 👨🏻‍💻
 - 🎓 Sistemas de Informação - UEMS - Dourados-MS 📍
 
-## Estatísticas 📊 
+### Estatísticas 📊 
 
 <table>
   <tr>
