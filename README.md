@@ -17,8 +17,12 @@
 ### Trabalhando ⚙️
 - Gênesis Tecnologia e Inovação 🌌
 
-### Estudando 👨🏻‍💻
+### Formado 🎓
 - 🎓 Sistemas de Informação - UEMS - Dourados-MS 📍
+
+### Estudando 👨🏻‍💻
+- Programação Web
+- Programação Mibile
 
 ### Estatísticas 📊 
 
