@@ -1,4 +1,5 @@
-# <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px"> Hi, I'm Mori Hiroshi
+# <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px"> Hi, I'm Mori Hiroshi ![Profile views](https://komarev.com/ghpvc/?username=MoriHiroshi0619&label=Visitors&color=blue&style=for-the-badge)
+
 
 👨‍💻 Software Developer <br>
 🎓 B.S. in Information Systems @ State University of Mato Grosso do Sul <br>
