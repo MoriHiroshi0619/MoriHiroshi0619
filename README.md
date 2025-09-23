@@ -1,4 +1,4 @@
-# 👋🏼 Hi, I'm Mori Hiroshi
+# <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px"> Hi, I'm Mori Hiroshi
 
 👨‍💻 Software Developer <br>
 🎓 B.S. in Information Systems @ State University of Mato Grosso do Sul <br>
