@@ -42,8 +42,6 @@
 
 ### Stats 📊 
 
-### Stats 📊 
-
 
 <table>
   <tr>
