@@ -47,7 +47,7 @@
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-nine-ashy-53.vercel.app/api/top-langs/?username=MoriHiroshi0619&hide=batchfile,Hack,HTML,CSS,CMake&langs_count=10&hide_progress=false&theme=aura" alt="Top Langs" />
+        <img src="https://github-readme-stats-nine-ashy-53.vercel.app/api/top-langs/?username=MoriHiroshi0619&hide=batchfile,Hack,HTML,CSS,CMake,Blade&langs_count=11&hide_progress=false&theme=aura" alt="Top Langs" />
       </a>
     </td>
     <td>
