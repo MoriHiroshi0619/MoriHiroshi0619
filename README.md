@@ -42,6 +42,9 @@
 
 ### Stats 📊 
 
+![Stats](https://github-readme-stats-nine-ashy-53.vercel.app/api?username=MoriHiroshi0619&show_icons=true)
+
+
 <table>
   <tr>
     <td>
