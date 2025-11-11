@@ -42,27 +42,28 @@
 
 ### Stats 📊 
 
-![Stats](https://github-readme-stats-nine-ashy-53.vercel.app/api?username=MoriHiroshi0619&show_icons=true)
+### Stats 📊 
 
 
 <table>
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoriHiroshi0619&hide=batchfile,Hack,HTML,CSS,CMake&langs_count=10&hide_progress=false&theme=aura" alt="Top Langs" />
+        <img src="https://github-readme-stats-nine-ashy-53.vercel.app/api/top-langs/?username=MoriHiroshi0619&hide=batchfile,Hack,HTML,CSS,CMake&langs_count=10&hide_progress=false&theme=aura" alt="Top Langs" />
       </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=MoriHiroshi0619&hide=issues&show=prs_merged,prs_merged_percentage&show_icons=true&theme=aura" alt="GitHub stats" />
+        <img src="https://github-readme-stats-nine-ashy-53.vercel.app/api?username=MoriHiroshi0619&hide=issues&show=prs_merged,prs_merged_percentage&show_icons=true&theme=aura" alt="GitHub stats" />
       </a>
       <br/>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hiroshi&layout=compact&theme=aura" alt="WakaTime stats" />
+        <img src="https://github-readme-stats-nine-ashy-53.vercel.app/api/wakatime?username=Hiroshi&layout=compact&theme=aura" alt="WakaTime stats" />
       </a>
     </td>
   </tr>
 </table>
+
 
 ### Connect with me 🌐
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anderson.hiro.c.m@gmail.com)
